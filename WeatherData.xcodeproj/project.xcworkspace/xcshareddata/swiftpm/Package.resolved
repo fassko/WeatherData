@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher",
+        "state": {
+          "branch": null,
+          "revision": "9c039c8d8d2aa349b326c1059702d9f1b83bdb82",
+          "version": "5.8.3"
+        }
+      },
+      {
+        "package": "SwiftSoup",
+        "repositoryURL": "https://github.com/scinfu/SwiftSoup.git",
+        "state": {
+          "branch": null,
+          "revision": "11da8c685ddde2d519fad04a7daf8485bbbc773e",
+          "version": "1.7.5"
+        }
+      },
+      {
+        "package": "TartuWeatherProvider",
+        "repositoryURL": "https://github.com/fassko/TartuWeatherProvider",
+        "state": {
+          "branch": null,
+          "revision": "315c3e0654adb8fff8e20f771311aa1ace74b4df",
+          "version": "0.5.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
